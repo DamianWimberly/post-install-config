@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the configuration of osTicket to simulate a help desk environment. The Admin Panel allows adjustments to roles, departments, and SLAs, while the Agent Panel is used by support staff to manage tickets. These settings offer flexibility to fit your learning or business needs.<br />
 
 
 <h2>Environments and Technologies Used</h2>
