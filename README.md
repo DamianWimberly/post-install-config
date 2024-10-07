@@ -18,7 +18,7 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- **Connect to the Azure Virtual Machine via RDP** to host osTicket.
+- **Connect to the Azure Virtual Machine** to host osTicket.
 - **Log in and differentiate between the Admin and Agent Panels** in osTicket.
 - **Configure roles, departments, and teams** to manage permissions and visibility for agents.
 - **Create and manage agents and users** for the help desk system.
