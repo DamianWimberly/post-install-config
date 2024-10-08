@@ -91,8 +91,8 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
 🔷 ***Decide Who Can Create Tickets***
 
 - Navigate to **Admin Panel** → **Settings** → **User Settings**.
-- For learning purposes, uncheck **Unregistered users can create tickets**.
-- Enable **Registration Required** to restrict ticket creation to registered users.
+  - For learning purposes, uncheck **Unregistered users can create tickets**.
+  - Enable **Registration Required** to restrict ticket creation to registered users.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
