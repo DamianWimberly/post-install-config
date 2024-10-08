@@ -113,9 +113,16 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
 - Navigate to **Admin Panel** → **Agents** → **Teams**.
    - Create a new team (e.g., "Online Banking") and set the status to **Active**.
        - Teams allow agents from different departments to collaborate on specific issues or topics.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 33 41 PM" src="https://github.com/user-attachments/assets/93bb09d0-ad2b-4750-b5f5-2ce8cfb71e82"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 34 37 PM" src="https://github.com/user-attachments/assets/9947582f-55c2-4068-8062-5e8e1e1aaa78"></td>
+  
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+  </tr>
+</table>
 
 🔷 ***Decide Who Can Create Tickets***
 
