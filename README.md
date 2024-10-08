@@ -101,7 +101,6 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 02 17 PM" src="https://github.com/user-attachments/assets/beabb323-5955-449b-9e26-23cadab0a403"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 21 34 PM" src="https://github.com/user-attachments/assets/1227f850-8fd5-408b-9a9b-c22030f2b04b"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 31 30 PM" src="https://github.com/user-attachments/assets/114c01fe-3196-465b-b04d-9335dcddc65e"></td>
-    <td></td>
   <tr>
     <td>Step 1</td>
     <td>Step 2</td>
