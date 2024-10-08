@@ -39,7 +39,7 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
     <td><img width="200" height= "150" alt="4" src="https://github.com/user-attachments/assets/6a1ef0a9-946a-4e55-8ea3-ff20661ceaa5">
   <tr>
     <td>VM Public IP Address</td>
-    <td>Connect via RDP</td></td>
+    <td>Connect via RDP</td>
   </tr>
 </table>
 
@@ -47,26 +47,47 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
 
 - Open your browser and navigate to **http://localhost/osTicket/scp/login.php**.
    - Enter the admin credentials you created during the installation.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 24 48 PM" src="https://github.com/user-attachments/assets/9e644089-4545-4f03-b8f9-b2fae9cca845"></td>
+    
+  <tr>
+    <td>osTicket Login</td>
+  </tr>
+</table>
 
 🔷 ***Differentiate Admin and Agent Panels***
 
 - **Admin Panel**: Used to configure system-wide settings and manage users, roles, and permissions.
 - **Agent Panel**: Interface for help desk staff to view and manage tickets.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 31 03 PM" src="https://github.com/user-attachments/assets/123e6581-436e-432d-8f81-2d653b052a94"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 31 20 PM" src="https://github.com/user-attachments/assets/34f8a1b2-434c-43c1-8ea3-17259447ee47"></td>
+  <tr>
+    <td>Admin Panel</td>
+    <td>Agent Panel</td>
+  </tr>
+</table>
 
 🔷 ***Configure Roles***
 
 - Navigate to **Admin Panel** → **Agents** → **Roles**.
    - Edit existing roles or create new roles with specific permissions for Tickets, Tasks, and Knowledgebase.
    -  Example: Create a "Supreme Admin" role and enable all permissions.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 37 24 PM" src="https://github.com/user-attachments/assets/d6b3a050-270e-4e53-af6f-290ebeb0ae3b"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 42 34 PM" src="https://github.com/user-attachments/assets/f87698a8-5e19-4c50-aaaa-c1920717188b"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 44 03 PM" src="https://github.com/user-attachments/assets/def66cc2-a8f8-456c-a1cf-86dc6035dced"><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 44 27 PM" src="https://github.com/user-attachments/assets/f32bf5b7-78a9-4fce-8690-3b5091b60564"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 44 45 PM" src="https://github.com/user-attachments/assets/52b4d734-82e7-46ca-b09b-dd0d51f4fe5b"> </td>
+  <tr>
+    <td>VM Public IP Address</td>
+    <td>Connect via RDP</td>
+    <td>Connect via RDP</td>
+    <td>Connect via RDP</td>
+  </tr>
+</table>
 
 🔷 ***Configure Departments***
 
@@ -75,15 +96,24 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
    - Set the parent department to **Top Level Department**.
    -  Configure visibility and access so only relevant departments can see specific tickets.
       - Example: Allow the "SysAdmins" department to view all tickets, but limit visibility for other departments.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 02 17 PM" src="https://github.com/user-attachments/assets/beabb323-5955-449b-9e26-23cadab0a403"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 21 34 PM" src="https://github.com/user-attachments/assets/1227f850-8fd5-408b-9a9b-c22030f2b04b"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 31 30 PM" src="https://github.com/user-attachments/assets/114c01fe-3196-465b-b04d-9335dcddc65e"></td>
+    <td></td>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+  </tr>
+</table>
 
 🔷 ***Configure Teams***
 
 - Navigate to **Admin Panel** → **Agents** → **Teams**.
    - Create a new team (e.g., "Online Banking") and set the status to **Active**.
-   - Teams allow agents from different departments to collaborate on specific issues or topics.
+       - Teams allow agents from different departments to collaborate on specific issues or topics.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -134,3 +164,16 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+  </tr>
+</table>
