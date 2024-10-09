@@ -129,11 +129,14 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
 - Navigate to **Admin Panel** → **Settings** → **User Settings**.
 - For learning purposes, uncheck **"Require registration and login to create tickets."**
 
-  - *For lab purposes, we want "anyone" to be able to create a ticket.*
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+  - *For lab purposes, we want "anyone" to be able to create a ticket. They also have the option to register if they'd like.*
+<table>
+  <tr>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 8 48 32 PM" src="https://github.com/user-attachments/assets/74ae0703-d15f-483e-a8e5-7848057c8620"></td>
+  <tr>
+    <td>Step 1</td>
+  </tr>
+</table>
 
 🔷 ***Configure Agents***
 
@@ -142,17 +145,38 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
       - Assign Jane the **Supreme Admin** role and add her to the **Online Banking** team.
       - Assign John **View Only Access** and add him to the **Support** department.
       - Set agent passwords manually by unchecking "Send the agent a Password Reset Email."
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 15 52 PM" src="https://github.com/user-attachments/assets/4189109b-e973-42ee-bbd4-203302983c1e"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 20 05 PM" src="https://github.com/user-attachments/assets/14f92a77-6d41-4d78-80c1-e56aa33906bd"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 20 42 PM" src="https://github.com/user-attachments/assets/77067b56-4530-4526-b715-4ec1ab08d7e9"><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 20 54 PM" src="https://github.com/user-attachments/assets/d0896eb7-21c3-4e4b-af99-fa3db18d9898"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 24 49 PM" src="https://github.com/user-attachments/assets/1250a155-5613-44fe-ac40-6038bd779aa1"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 25 21 PM" src="https://github.com/user-attachments/assets/ea7d16bb-4bf8-466b-90d0-9926783fca21"><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 26 30 PM" src="https://github.com/user-attachments/assets/83502e34-925a-4ec6-a185-612df90df861"></td>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+    <td>Step 5</td>
+  </tr>
+</table>
+
 
 🔷 ***Configure Users***
 
 - Navigate to **Agent Panel** → **Users** → **Add New**.
    - Add users like "Karen" and "Ken" who will represent your customers.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 24 51 PM" src="https://github.com/user-attachments/assets/a4ad16c9-0d32-491e-a48f-a9e13c13f404"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 25 48 PM" src="https://github.com/user-attachments/assets/651bb592-65f5-46a2-a9f5-e9d34383b0e0"><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 26 34 PM" src="https://github.com/user-attachments/assets/88d93661-085a-4a6b-9fb2-f4ba6794b6b0"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 27 28 PM" src="https://github.com/user-attachments/assets/231ffa71-1086-49b1-af97-279b3d86e2ff"><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 27 39 PM" src="https://github.com/user-attachments/assets/fa4901b9-b56a-4f07-8213-6e92127d908c"></td>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+  </tr>
+</table>
 
 🔷 ***Configure Service Level Agreements (SLAs)***
 
@@ -161,17 +185,26 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
    - **Sev-A**: 1-hour response, 24/7.
    - **Sev-B**: 4-hour response, 24/7.
    - **Sev-C**: 8-hour response, business hours only.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 42 47 PM" src="https://github.com/user-attachments/assets/db8f87a4-7ad6-4ca3-9d06-a545882751fd"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 46 15 PM" src="https://github.com/user-attachments/assets/41918ded-6b58-46da-9fb0-d9bdcc53b9cb"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 46 56 PM" src="https://github.com/user-attachments/assets/0351e7f2-0c92-480a-acde-f2264e4ca66d"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 47 21 PM" src="https://github.com/user-attachments/assets/21f229be-8e5e-4a7f-851f-c4990c367035"></td>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+  </tr>
+</table>
+
 
 🔷 ***Configure Help Topics***
 
 - Navigate to **Admin Panel** → **Manage** → **Help Topics**.
    -  Add help topics such as "Business Critical Outage," "Password Reset," and "Equipment Request" to categorize tickets.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <table>
   <tr>
     <td></td>
