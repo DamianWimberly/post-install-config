@@ -204,11 +204,14 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
 
 - Navigate to **Admin Panel** → **Manage** → **Help Topics**.
    -  Add help topics such as "Business Critical Outage," "Password Reset," and "Equipment Request" to categorize tickets.
-
+   -  In **New ticket options**, you can select the default Help Topic priority and SLA Plan
 <table>
   <tr>
-    <td></td>
-    <td></td>
+    <td>![Screenshot 2024-10-08 at 10 06 09 PM](https://github.com/user-attachments/assets/eeb8ff2a-e2f6-42df-8fc4-f18a23e1e67f)
+</td>
+    <td>![Screenshot 2024-10-08 at 10 07 47 PM](https://github.com/user-attachments/assets/03d6e9e7-1918-4d3f-9a50-3670d0b087f2)
+
+</td>
     <td></td>
     <td></td>
   <tr>
