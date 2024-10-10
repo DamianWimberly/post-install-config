@@ -144,15 +144,16 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
 - Navigate to **Admin Panel** → **Agents** → **Add New**.
    - Add new agents such as "Jane Doe" (in SysAdmins) and "John Doe" (in Support).
       - Assign Jane the **Supreme Admin** role and add her to the **Online Banking** team.
-      - Assign John **View Only Access** and add him to the **Support** department.
+      - Assign John **Expanded Access** and add him to the **Support** department.
       - Set agent passwords manually by unchecking "Send the agent a Password Reset Email."
 <table>
   <tr>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 15 52 PM" src="https://github.com/user-attachments/assets/4189109b-e973-42ee-bbd4-203302983c1e"></td>
-    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 20 05 PM" src="https://github.com/user-attachments/assets/14f92a77-6d41-4d78-80c1-e56aa33906bd"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 18 46 PM" src="https://github.com/user-attachments/assets/e1982ed1-4b93-4129-9885-fe2f0aa81416"><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 20 05 PM" src="https://github.com/user-attachments/assets/14f92a77-6d41-4d78-80c1-e56aa33906bd"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 20 42 PM" src="https://github.com/user-attachments/assets/77067b56-4530-4526-b715-4ec1ab08d7e9"><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 20 54 PM" src="https://github.com/user-attachments/assets/d0896eb7-21c3-4e4b-af99-fa3db18d9898"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 24 49 PM" src="https://github.com/user-attachments/assets/1250a155-5613-44fe-ac40-6038bd779aa1"></td>
-    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 25 21 PM" src="https://github.com/user-attachments/assets/ea7d16bb-4bf8-466b-90d0-9926783fca21"><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 26 30 PM" src="https://github.com/user-attachments/assets/83502e34-925a-4ec6-a185-612df90df861"></td>
+    <td><img width="200" alt="Screenshot 2024-10-10 at 10 45 27 AM" src="https://github.com/user-attachments/assets/f954c441-3f8c-4081-8e2a-0af1f85871a3"><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 26 30 PM" src="https://github.com/user-attachments/assets/83502e34-925a-4ec6-a185-612df90df861"></td>
+
   <tr>
     <td>Step 1</td>
     <td>Step 2</td>
