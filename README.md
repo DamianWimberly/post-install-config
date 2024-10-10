@@ -207,13 +207,12 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
    -  In **New ticket options**, you can select the default Help Topic priority and SLA Plan
 <table>
   <tr>
-    <td>![Screenshot 2024-10-08 at 10 06 09 PM](https://github.com/user-attachments/assets/eeb8ff2a-e2f6-42df-8fc4-f18a23e1e67f)
+    <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 10 06 09 PM" src="https://github.com/user-attachments/assets/eeb8ff2a-e2f6-42df-8fc4-f18a23e1e67f"></td>
+    <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 10 07 47 PM" src="https://github.com/user-attachments/assets/03d6e9e7-1918-4d3f-9a50-3670d0b087f2"><img width="200" alt="Screenshot 2024-10-09 at 4 18 53 PM" src="https://github.com/user-attachments/assets/50ce33ba-4cba-433d-9d06-927a3a609669">
 </td>
-    <td>![Screenshot 2024-10-08 at 10 07 47 PM](https://github.com/user-attachments/assets/03d6e9e7-1918-4d3f-9a50-3670d0b087f2)
-
+    <td><img width="200" alt="Screenshot 2024-10-09 at 4 22 21 PM" src="https://github.com/user-attachments/assets/8089340a-b5f0-48d9-b5db-6177f55844f5"></td>
+    <td><img width="200" alt="Screenshot 2024-10-09 at 4 22 43 PM" src="https://github.com/user-attachments/assets/e1596f01-78ae-4470-b51a-2efa380e444d">
 </td>
-    <td></td>
-    <td></td>
   <tr>
     <td>Step 1</td>
     <td>Step 2</td>
