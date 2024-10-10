@@ -14,7 +14,7 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> 
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -82,10 +82,10 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 44 03 PM" src="https://github.com/user-attachments/assets/def66cc2-a8f8-456c-a1cf-86dc6035dced"><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 44 27 PM" src="https://github.com/user-attachments/assets/f32bf5b7-78a9-4fce-8690-3b5091b60564"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 8 44 45 PM" src="https://github.com/user-attachments/assets/52b4d734-82e7-46ca-b09b-dd0d51f4fe5b"> </td>
   <tr>
-    <td>VM Public IP Address</td>
-    <td>Connect via RDP</td>
-    <td>Connect via RDP</td>
-    <td>Connect via RDP</td>
+    <td>Add New Role</td>
+    <td>Create "Supreme Admin"</td>
+    <td>Configure Permissions </td>
+    <td>Role Activated</td>
   </tr>
 </table>
 
@@ -96,16 +96,16 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
    - Set the parent department to **Top Level Department**.
    -  Configure visibility and access so only relevant departments can see specific tickets.
       - Example: Allow the "SysAdmins" department to view all tickets, but limit visibility for other departments.
-   -  Delete the "Mainte
+
 <table>
   <tr>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 02 17 PM" src="https://github.com/user-attachments/assets/beabb323-5955-449b-9e26-23cadab0a403"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 21 34 PM" src="https://github.com/user-attachments/assets/1227f850-8fd5-408b-9a9b-c22030f2b04b"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 31 30 PM" src="https://github.com/user-attachments/assets/114c01fe-3196-465b-b04d-9335dcddc65e"></td>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
+    <td>Add New Department</td>
+    <td>Configure "SysAdmins"</td>
+    <td>Department Activated</td>
   </tr>
 </table>
 
@@ -120,8 +120,8 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 34 37 PM" src="https://github.com/user-attachments/assets/9947582f-55c2-4068-8062-5e8e1e1aaa78"></td>
   
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
+    <td>Add New Team</td>
+    <td>Configure "Online Banking" Team</td>
   </tr>
 </table>
 
@@ -135,7 +135,7 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
   <tr>
     <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 8 48 32 PM" src="https://github.com/user-attachments/assets/74ae0703-d15f-483e-a8e5-7848057c8620"></td>
   <tr>
-    <td>Step 1</td>
+    <td>non-Registration Permitted</td>
   </tr>
 </table>
 
@@ -149,17 +149,17 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
 <table>
   <tr>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 15 52 PM" src="https://github.com/user-attachments/assets/4189109b-e973-42ee-bbd4-203302983c1e"></td>
-    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 18 46 PM" src="https://github.com/user-attachments/assets/e1982ed1-4b93-4129-9885-fe2f0aa81416"><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 20 05 PM" src="https://github.com/user-attachments/assets/14f92a77-6d41-4d78-80c1-e56aa33906bd"></td>
-    <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 20 42 PM" src="https://github.com/user-attachments/assets/77067b56-4530-4526-b715-4ec1ab08d7e9"><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 20 54 PM" src="https://github.com/user-attachments/assets/d0896eb7-21c3-4e4b-af99-fa3db18d9898"></td>
+    <td><img width="100" height="100" alt="Screenshot 2024-10-07 at 10 18 46 PM" src="https://github.com/user-attachments/assets/e1982ed1-4b93-4129-9885-fe2f0aa81416"><img width="100" height="100" alt="Screenshot 2024-10-07 at 10 20 05 PM" src="https://github.com/user-attachments/assets/14f92a77-6d41-4d78-80c1-e56aa33906bd"></td>
+    <td><img width="100" height="100" alt="Screenshot 2024-10-07 at 10 20 42 PM" src="https://github.com/user-attachments/assets/77067b56-4530-4526-b715-4ec1ab08d7e9"><img width="100" height="100" alt="Screenshot 2024-10-07 at 10 20 54 PM" src="https://github.com/user-attachments/assets/d0896eb7-21c3-4e4b-af99-fa3db18d9898"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 24 49 PM" src="https://github.com/user-attachments/assets/1250a155-5613-44fe-ac40-6038bd779aa1"></td>
-    <td><img width="200" alt="Screenshot 2024-10-10 at 10 45 27 AM" src="https://github.com/user-attachments/assets/f954c441-3f8c-4081-8e2a-0af1f85871a3"><img width="200" height="150" alt="Screenshot 2024-10-07 at 10 26 30 PM" src="https://github.com/user-attachments/assets/83502e34-925a-4ec6-a185-612df90df861"></td>
+    <td><img width="100" alt="Screenshot 2024-10-10 at 10 45 27 AM" src="https://github.com/user-attachments/assets/f954c441-3f8c-4081-8e2a-0af1f85871a3"><img width="100" height="100" alt="Screenshot 2024-10-07 at 10 26 30 PM" src="https://github.com/user-attachments/assets/83502e34-925a-4ec6-a185-612df90df861"></td>
 
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
-    <td>Step 4</td>
-    <td>Step 5</td>
+    <td>Add New Agent</td>
+    <td>Add Jane Doe</td>
+    <td>Jane Doe Configuration</td>
+    <td>Add John Doe</td>
+    <td>John Doe Configuration</td>
   </tr>
 </table>
 
@@ -174,9 +174,9 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
     <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 25 48 PM" src="https://github.com/user-attachments/assets/651bb592-65f5-46a2-a9f5-e9d34383b0e0"><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 26 34 PM" src="https://github.com/user-attachments/assets/88d93661-085a-4a6b-9fb2-f4ba6794b6b0"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 27 28 PM" src="https://github.com/user-attachments/assets/231ffa71-1086-49b1-af97-279b3d86e2ff"><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 27 39 PM" src="https://github.com/user-attachments/assets/fa4901b9-b56a-4f07-8213-6e92127d908c"></td>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
+    <td>Add User</td>
+    <td>User: Karen</td>
+    <td>User: Ken</td>
   </tr>
 </table>
 
@@ -194,10 +194,10 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
     <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 46 56 PM" src="https://github.com/user-attachments/assets/0351e7f2-0c92-480a-acde-f2264e4ca66d"></td>
     <td><img width="200" height="150" alt="Screenshot 2024-10-08 at 9 47 21 PM" src="https://github.com/user-attachments/assets/21f229be-8e5e-4a7f-851f-c4990c367035"></td>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
-    <td>Step 4</td>
+    <td>Add New SLA Plan</td>
+    <td>Sev-A</td>
+    <td>Sev-B</td>
+    <td>Sev-C</td>
   </tr>
 </table>
 
@@ -216,9 +216,9 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
     <td><img width="200" alt="Screenshot 2024-10-09 at 4 22 43 PM" src="https://github.com/user-attachments/assets/e1596f01-78ae-4470-b51a-2efa380e444d">
 </td>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
-    <td>Step 4</td>
+    <td>Add New Help Topic</td>
+    <td>Business Critical Outage</td>
+    <td>Password Reset</td>
+    <td>Equipment Request</td>
   </tr>
 </table>
