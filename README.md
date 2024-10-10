@@ -96,6 +96,7 @@ This tutorial outlines the configuration of osTicket to simulate a help desk env
    - Set the parent department to **Top Level Department**.
    -  Configure visibility and access so only relevant departments can see specific tickets.
       - Example: Allow the "SysAdmins" department to view all tickets, but limit visibility for other departments.
+   -  Delete the "Mainte
 <table>
   <tr>
     <td><img width="200" height="150" alt="Screenshot 2024-10-07 at 9 02 17 PM" src="https://github.com/user-attachments/assets/beabb323-5955-449b-9e26-23cadab0a403"></td>
